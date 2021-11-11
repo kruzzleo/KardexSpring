@@ -6,6 +6,9 @@ Aplicacion Kardex
 - se propone un carrito de compras de componente sessionScope
 - se maneja BD h2 en memoria
 - se adjunta el diagrama de BD propuesto
+- ejecutar en puerto 8080,
+- user: useremail
+- pass: useremail
 
 
      :+1:  De antemano muchas gracias por la oportunidad y el tiempo :+1: 
