@@ -1,0 +1,8 @@
+package com.todo1.kardexSpring.model.enums;
+
+
+public enum RolNombre {
+	
+	ROLE_ADMIN, ROLE_USER
+
+}
